@@ -20,7 +20,7 @@
 - Y aparte, soy hincha del equipo donde juegue Cristiano Ronaldo, mi ídolo.
 ![CR7](https://www.eluniversal.com.co/binrepository/1200x481/0c0/0d0/none/13704/UCEH/cr7_7422238_20230223143159.jpg)
 
->"_Siuuuuuuuuuuuuuu_"
+
 
 ## _Celebración_
 <https://www.youtube.com/watch?v=0acgpCo6HFc>
