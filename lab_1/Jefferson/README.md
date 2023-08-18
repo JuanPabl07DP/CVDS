@@ -22,10 +22,10 @@ Quiero que conozcas mi página (esta en construcción jejeje)
 
 
 #### Acá esta la primera parte de la actividad 3
-
-![](https://jffmv.github.io/imagenes/1.png)
-
+##### PD son dos imagenes en esta parte
+![100](https://jffmv.github.io/imagenes/1.png)
+![100](https://jffmv.github.io/imagenes/2.png)
 #### Mira este gato jejejeje
-![](https://cdn.onemars.net/sites/nutro_es_NkyIN_B9cV/image/gettyimages-175925832_1615921990619.jpeg)
+![70](https://cdn.onemars.net/sites/nutro_es_NkyIN_B9cV/image/gettyimages-175925832_1615921990619.jpeg)
 
     print ("Hello world whit cat")
