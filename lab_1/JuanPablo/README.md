@@ -46,4 +46,4 @@
 
 ### Ejercicios REMOTE
 
-![2](https://i.postimg.cc/9QHWVvJ3/Captura-de-pantalla-2023-08-22-170851.png)
+![2](https://i.postimg.cc/FRYR10Sw/Captura-de-pantalla-2023-08-22-174428.png)
