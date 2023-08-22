@@ -42,4 +42,8 @@
 
 ### Ejercicios MAIN
 
+![1](https://i.postimg.cc/CMvBhLf3/Captura-de-pantalla-2023-08-22-125038.png)
+
 ### Ejercicios REMOTE
+
+![2](https://i.postimg.cc/9QHWVvJ3/Captura-de-pantalla-2023-08-22-170851.png)
