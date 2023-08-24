@@ -25,6 +25,10 @@ Quiero que conozcas mi página (esta en construcción jejeje)
 ##### PD son dos imagenes en esta parte
 ![50](https://jffmv.github.io/imagenes/1.png)
 ![50](https://jffmv.github.io/imagenes/2.png)
+##### PD es la última parte: remote
+![50](https://jffmv.github.io/imagenes/IMG-20230824-WA0001.jpg)
+
+
 #### Mira este gato jejejeje
 ![25](https://cdn.onemars.net/sites/nutro_es_NkyIN_B9cV/image/gettyimages-175925832_1615921990619.jpeg)
 
